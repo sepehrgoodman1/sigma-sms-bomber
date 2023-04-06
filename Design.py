@@ -17,12 +17,12 @@ DesignMe = '''
     .___/Y\___/
         |I|
         / |
-  \_____|_|_____/ *** Follow Me : https://github.com/sepehrgoodman1 ***
-      *      *  '''
+  \_____|_|_____/ *** Follow Me Github: https://github.com/sepehrgoodman1 ***
+      *      *    *** Follow Me On Instagram : @SepehrGoodMan.Official ***'''
 
 TextWarning = '''
     Warning : You are only allowed to use this app on girls who have not given you a number! '''
 
 TextStart = '''
-    >>>>> Enter The Target Phone Number Without 0 (Example : 99117598598) : '''
+    >>>>> Enter The Target Phone Number Without 0 (Example : 99117597896) : '''
 
